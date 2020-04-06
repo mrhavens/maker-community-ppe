@@ -45,7 +45,7 @@ There are 3 primary categories of items we need. Headbands printed on 3d printer
 ### Sewn Ties
 Specifically we are looking for ties that are ⅜” wide and about 24” long. There are many ways to accomplish this and whatever works best for you is acceptable, as long as the cleaning procedures are followed.
 
-#### Making A Sewn Tie With Basic Sewing Tools
+#### Making a Sewn Tie with Basic Sewing Tools
 1. Finger press 1 ½” strip of fabric in half.
 2. Fold each side in to meet in the middle.
 3. Fold in half again, so that the two folds meet, it should be about ⅜” wide at this point.
@@ -93,7 +93,7 @@ Drop-off is open 24/7. Donation boxes are black and yellow, located out front.
 
 ![Dallas Makerspace donation drop-off boxes](/images/dms-dropoff.jpg?raw=true)
 
-## Where Are These Going
+## Where are These Going
 The first few rounds will be going to Scottish Rite hospitals. If you represent a DFW area medical facility, first responder group (FD/PD/etc) or another group on the front lines that needs face shields, please reach out and let us know what you need.
 
 ## Use Our System

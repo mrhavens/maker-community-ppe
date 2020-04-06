@@ -1,12 +1,16 @@
 # Maker Community PPE
 <div align="center">
-	<img width="450" src="images/ppe.gif">
+	<img width="350" src="images/ppe.gif">
 </div>
 
 Our maker community is doing what we can to make what we can to save lives. If you have equipment to produce [PPE](https://en.wikipedia.org/wiki/Personal_protective_equipment), you can help by donating the PPE you make! Let us work together to do everything we can to make a difference!
 
 ## Donation Instructions
 The Coronavirus Pandemic (COVID-19) has placed great strain on the supply chains for various kinds of Personal Protective Equipment (PPE). This equipment is desperately needed by those working the front lines in the fight against the disease. Due to the widespread availability and private ownership of 3d printers and sewing machines, we are urging those with access to any avaliable equipment in order fill the supply gaps on PPE availability. With the excitment among volunteers that are egar to help, we need to ensure that everything we build is safe, reliable, and easy to use. The primary goal of our work is to build face shields based off a design approved for use by the U.S. Department of Health and Human Services—National Institutes of Health (NIH). The procedures we have built allow us to establish a “chain of custody” that will help ensure the PPE we provide has not been compromised.  
+
+<div align="center">
+        <img width="650" src="images/makers-make-ppe.gif">
+</div>
 
 **IMPORTANT: Please read these instructions carefully!**
 

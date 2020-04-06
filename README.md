@@ -1,6 +1,6 @@
 # Maker Community PPE
 <div align="center">
-	<img width="350" src="images/ppe.gif">
+	<img width="450" src="images/ppe.gif">
 </div>
 
 

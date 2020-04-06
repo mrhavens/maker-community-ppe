@@ -1,4 +1,10 @@
 # Maker Community PPE
+<div align="center">
+	<img width="350" src="images/ppe.gif">
+</div>
+
+
+
 Our maker community is doing what we can making what we can. If you have equipment to produce [PPE](https://en.wikipedia.org/wiki/Personal_protective_equipment), you can help save lives by donating PPE! Let us work together to do everything we can to make a difference!
 
 ## Donation Instructions

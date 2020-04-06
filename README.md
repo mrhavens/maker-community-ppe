@@ -101,3 +101,6 @@ Find the right group that works for you! Other DFW PPE initiaties include the fo
 [ACME Creation Lab](https://www.acmecreationlab.org/) is leading an initiative to safely produce PPE using their shared community workshop. Click [here](https://forms.gle/5DQuzs4wFgVawN4t7) to be an on-site volunteer. They can also be found [here](https://www.meetup.com/Open-Source-PPE-Makers/) on the Open Source PPE Makers Meetup group.
  
 [SewStrong Dallas](https://www.facebook.com/groups/3685675388169253/) is also creating face masks.
+
+## Community Contact 
+If you'd like to reach out about this initiative, please send an email to ppe@beyondweb.net, or contact the sponsoring community volunteer of this repository, [Mark Havens](https://github.com/mrhavens).

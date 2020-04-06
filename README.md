@@ -93,7 +93,7 @@ Drop-off is open 24/7. Donation boxes are black and yellow, located out front.
 
 ![Dallas Makerspace donation drop-off boxes](/images/dms-dropoff.jpg?raw=true)
 
-## Where are These Going
+## Where are These Going?
 The first few rounds will be going to Scottish Rite hospitals. If you represent a DFW area medical facility, first responder group (FD/PD/etc) or another group on the front lines that needs face shields, please reach out and let us know what you need.
 
 ## Use Our System

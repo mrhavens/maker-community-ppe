@@ -115,4 +115,4 @@ If you'd like to reach out about this initiative, please send an email to ppe@be
 
 ## Special Thanks
 
-Special thanks goes to [aceat64](https://github.com/aceat64) for volunteering to manage this initiative. The source branch for this project can be found [here](https://github.com/aceat64/ppe-donations).
+A very special thank you goes to [aceat64](https://github.com/aceat64) for volunteering to manage this initiative. The source branch for this project can be found [here](https://github.com/aceat64/ppe-donations).

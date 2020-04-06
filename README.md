@@ -112,3 +112,7 @@ Find the right group that works for you! Other DFW PPE initiatives include the f
 
 ## Community Contact 
 If you'd like to reach out about this initiative, please send an email to ppe@beyondweb.net, or contact the sponsoring community volunteer of this repository, [Mark Havens](https://github.com/mrhavens).
+
+## Special Thanks
+
+Thanks to [aceat64](https://github.com/aceat64) for volunteering to manage this initiative. The source branch for this project can be found [here](https://github.com/aceat64/ppe-donations).

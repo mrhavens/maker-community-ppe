@@ -50,7 +50,7 @@ There are 3 primary categories of items we need. Headbands printed on 3d printer
 8. Follow the Donation Drop-Off Instructions at the end of this document, to donate the headband at one of our donation drop-off points.
 
 <div align="center">
-        <img width="550" src="images/ppe-slideshow.gif">
+        <img width="750" src="images/ppe-slideshow.gif">
 </div>
 
 ### Sewn Ties

@@ -6,8 +6,10 @@
 Our maker community is doing what we can to make what we can to save lives. If you have equipment to produce [PPE](https://en.wikipedia.org/wiki/Personal_protective_equipment), you can help by donating the PPE you make! Let us work together to do everything we can to make a difference!
 
 <div align="center">
+	<img width="250" src="images/shield3.jpg">
 	<img width="250" src="images/shield1.jpg">
 	<img width="250" src="images/shield2.jpg">
+	<img width="250" src="images/shield4.jpg">
 </div>
 
 ## Donation Instructions
@@ -22,15 +24,16 @@ Before starting, please read and agree to the following:
 3. I will follow the guidelines for as best as I can.
 4. I will do my part in limiting the spread of Coronavirus by going out only when required and by maintaining social distancing.
 
-<div align="center">
-        <img width="950" src="images/makers-make-ppe.gif">
-	<figcaption>I gave up my garage for a Makerspace a long time ago. But if I did have a garage, my family and I would be doing this all day.</figcaption>
-</div>
-
 ## Updates
+
 Please check back at this page frequently, as we may make changes to process, best practices and donation drop-off locations.
 
 ## What We Need
+
+<div align="center">
+        <img width="450" src="images/shieldA.jpg">
+</div>
+
 There are 3 primary categories of items we need. Headbands printed on 3d printers, sewn ties to hold the headband on the user’s head and certain types of plastic sheets that can be used as improvised visors for the NIH approved face shield design. While many people have used this design with elastic straps or rubber bands, the input we’ve received from end-users is that ties are superior, as it allows them to pick the tightness they prefer, which increases comfort and allows them to wear the face shields for longer.
 
 ### 3D Printed Headbands
@@ -117,6 +120,13 @@ Find the right group that works for you! Other DFW PPE initiatives include the f
 
 ## Community Contact 
 If you'd like to reach out about this initiative, please send an email to ppe@beyondweb.net, or contact the sponsoring community volunteer of this repository, [Mark Havens](https://github.com/mrhavens).
+
+
+<div align="center">
+        <img width="950" src="images/makers-make-ppe.gif">
+        <figcaption>I gave up my garage for a Makerspace a long time ago. But if I did have a garage, my family and I would be doing this all day.</figcaption>
+</div>
+
 
 ## Special Thanks
 

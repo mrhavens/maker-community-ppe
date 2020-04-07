@@ -6,8 +6,8 @@
 Our maker community is doing what we can to make what we can to save lives. If you have equipment to produce [PPE](https://en.wikipedia.org/wiki/Personal_protective_equipment), you can help by donating the PPE you make! Let us work together to do everything we can to make a difference!
 
 <div align="center">
-	<img width="250" src="images/shield1.gif">
-	<img width="250" src="images/shield2.gif">
+	<img width="250" src="images/shield1.jpg">
+	<img width="250" src="images/shield2.jpg">
 </div>
 
 ## Donation Instructions

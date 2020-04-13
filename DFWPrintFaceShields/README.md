@@ -4,7 +4,7 @@
 
 <div align="center">
         <img width="450" src="images/3dmask.png">
-        <figcaption>I gave up my garage for a Makerspace a long time ago. But if I did have a garage, my family and I would be doing this all day.</figcaption>
+        <figcaption>The plastic frame AND support for the USA version of the Prusa face shield.</figcaption>
 </div>
 
 
